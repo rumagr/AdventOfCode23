@@ -4,12 +4,12 @@ MAX_NUM_RED = 12
 MAX_NUM_GREEN = 13
 MAX_NUM_BLUE = 14
 
-file = open("test_data.txt")
+file = open("input.txt")
 
 content = file.readlines()
 
-for l in content: 
-    print(l)
+#for l in content: 
+#    print(l)
 
 #possibleGames = []
 
